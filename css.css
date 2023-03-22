@@ -1,0 +1,37 @@
+/* Задание 6
+.square {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+} */
+/* Задание 7  только на css и html выглядело бы так:) 
+.square2 {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  
+}
+.square2:hover{
+  background-color: green;
+  
+} */
+
+/*  Задание 7   Решение без JS ;)*/
+/* .square2 {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+                                         
+}
+#square2e{
+  width: 200px;
+  height: 200px;  
+  background-color: green;
+} */
+
+/*  Задание 7 */
+.RedGreen{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
